@@ -10,7 +10,7 @@ This repository contains 46 specialized subagents that extend Claude Code's capa
 
 ### Development & Architecture
 - **[backend-architect](backend-architect.md)** - Design RESTful APIs, microservice boundaries, and database schemas
-- **[frontend-developer](frontend-developer.md)** - Build React components, implement responsive layouts, and handle client-side state management
+- **[frontend-developer](frontend-developer.md)** - Build React and Vue components, implement responsive layouts, and handle client-side state management
 - **[mobile-developer](mobile-developer.md)** - Develop React Native or Flutter apps with native integrations
 - **[graphql-architect](graphql-architect.md)** - Design GraphQL schemas, resolvers, and federation
 - **[architect-reviewer](architect-review.md)** - Reviews code changes for architectural consistency and patterns
@@ -19,6 +19,7 @@ This repository contains 46 specialized subagents that extend Claude Code's capa
 - **[python-pro](python-pro.md)** - Write idiomatic Python code with advanced features and optimizations
 - **[golang-pro](golang-pro.md)** - Write idiomatic Go code with goroutines, channels, and interfaces
 - **[rust-pro](rust-pro.md)** - Write idiomatic Rust with ownership patterns, lifetimes, and trait implementations
+- **[csharp-pro](csharp-pro.md)** - Write idiomatic C# code with modern features, ASP.NET Core web applications, and Entity Framework
 - **[c-pro](c-pro.md)** - Write efficient C code with proper memory management and system calls
 - **[cpp-pro](cpp-pro.md)** - Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms
 - **[javascript-pro](javascript-pro.md)** - Master modern JavaScript with ES6+, async patterns, and Node.js APIs
@@ -225,13 +226,14 @@ payment-integration → security-auditor → Validated implementation
 
 ### 🏗️ Planning & Architecture
 - **backend-architect**: API design, database schemas, system architecture
-- **frontend-developer**: UI/UX planning, component architecture
+- **frontend-developer**: React/Vue UI/UX planning, component architecture
 - **cloud-architect**: Infrastructure design, scalability planning
 
 ### 🔧 Implementation & Development  
 - **python-pro**: Python-specific development tasks
 - **golang-pro**: Go-specific development tasks
 - **rust-pro**: Rust-specific development, memory safety, systems programming
+- **csharp-pro**: C# development, ASP.NET Core web apps, Entity Framework
 - **c-pro**: C programming, embedded systems, performance-critical code
 - **javascript-pro**: Modern JavaScript, async patterns, Node.js/browser code
 - **sql-pro**: Database queries, schema design, query optimization
